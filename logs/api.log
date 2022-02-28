@@ -1,0 +1,100 @@
+28-02-2022 09:36:36.090 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\AppiumOdev\specs
+28-02-2022 09:36:36.092 [Gauge] [DEBUG] Found 2 files
+28-02-2022 09:36:36.098 [Gauge] [INFO] Initializing concepts cache with 4 concepts
+28-02-2022 09:36:36.098 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 09:36:36.098 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 09:36:36.098 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 09:36:36.098 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 09:36:36.100 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-02-2022 09:36:36.101 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\example.spec
+28-02-2022 09:36:36.101 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-02-2022 09:36:36.101 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57210
+28-02-2022 09:36:45.408 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"5\" saniye kadar bekle" > 
+28-02-2022 09:36:45.409 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<5> saniye kadar bekle" parameters:"5" > > 
+28-02-2022 09:36:45.531 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<wait> saniye kadar bekle" > 
+28-02-2022 09:36:45.531 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<wait> saniye kadar bekle" parameters:"wait" > > 
+28-02-2022 09:36:45.533 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Atla butonunu kontrol et" > 
+28-02-2022 09:36:45.534 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Atla butonunu kontrol et" parameterizedStepValue:"Atla butonunu kontrol et" > > 
+28-02-2022 09:36:45.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"id <id> li eleemente t\304\261kla" > 
+28-02-2022 09:36:45.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"id {} li eleemente t\304\261kla" parameterizedStepValue:"id <id> li eleemente t\304\261kla" parameters:"id" > > 
+28-02-2022 09:36:45.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<id> \304\260d'li elemente <text> de\304\237erini yaz" > 
+28-02-2022 09:36:45.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} \304\260d'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<id> \304\260d'li elemente <text> de\304\237erini yaz" parameters:"id" parameters:"text" > > 
+28-02-2022 09:36:45.537 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyede arama butonuna bas" > 
+28-02-2022 09:36:45.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyede arama butonuna bas" parameterizedStepValue:"Klavyede arama butonuna bas" > > 
+28-02-2022 09:36:45.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n  Arama alan\304\261na t\304\261kla" > 
+28-02-2022 09:36:45.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n  Arama alan\304\261na t\304\261kla" parameterizedStepValue:"\303\234r\303\274n  Arama alan\304\261na t\304\261kla" > > 
+28-02-2022 09:36:45.542 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rasgele bir \303\274r\303\274n se\303\247" > 
+28-02-2022 09:36:45.542 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rasgele bir \303\274r\303\274n se\303\247" parameterizedStepValue:"Rasgele bir \303\274r\303\274n se\303\247" > > 
+28-02-2022 09:36:45.737 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" \303\234r\303\274n  Arama alan\304\261na t\304\261kla" > 
+28-02-2022 09:36:45.737 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n  Arama alan\304\261na t\304\261kla" parameterizedStepValue:"\303\234r\303\274n  Arama alan\304\261na t\304\261kla" > > 
+28-02-2022 09:36:45.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274m arama input alan\304\261na \"kazak\" de\304\237erini yaz" > 
+28-02-2022 09:36:45.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274m arama input alan\304\261na {} de\304\237erini yaz" parameterizedStepValue:"\303\234r\303\274m arama input alan\304\261na <kazak> de\304\237erini yaz" parameters:"kazak" > > 
+28-02-2022 09:36:45.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274m arama input alan\304\261na <key> de\304\237erini yaz" > 
+28-02-2022 09:36:45.800 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274m arama input alan\304\261na {} de\304\237erini yaz" parameterizedStepValue:"\303\234r\303\274m arama input alan\304\261na <key> de\304\237erini yaz" parameters:"key" > > 
+28-02-2022 09:36:45.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Listelenen \303\274r\303\274nler aras\304\261ndan rasgele bir \303\274r\303\274n se\303\247" > 
+28-02-2022 09:36:45.803 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Listelenen \303\274r\303\274nler aras\304\261ndan rasgele bir \303\274r\303\274n se\303\247" parameterizedStepValue:"Listelenen \303\274r\303\274nler aras\304\261ndan rasgele bir \303\274r\303\274n se\303\247" > > 
+28-02-2022 09:36:45.864 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Favorilerime ekle butonuna bas" > 
+28-02-2022 09:36:45.864 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Favorilerime ekle butonuna bas" parameterizedStepValue:"Favorilerime ekle butonuna bas" > > 
+28-02-2022 09:36:45.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Favorilerime ekle butonuna bas" > 
+28-02-2022 09:36:45.959 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Favorilerime ekle butonuna bas" parameterizedStepValue:"Favorilerime ekle butonuna bas" > > 
+28-02-2022 09:39:37.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"com.lcwaikiki.android:id/toolbar_search\" \304\260d'li elemente <key> de\304\237erini yaz" > 
+28-02-2022 09:39:37.052 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} \304\260d'li elemente {} de\304\237erini yaz" parameterizedStepValue:"<com.lcwaikiki.android:id/toolbar_search> \304\260d'li elemente <key> de\304\237erini yaz" parameters:"com.lcwaikiki.android:id/toolbar_search" parameters:"key" > > 
+28-02-2022 09:39:37.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"id \"com.lcwaikiki.android:id/searchIcon\" li eleemente t\304\261kla" > 
+28-02-2022 09:39:37.257 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"id {} li eleemente t\304\261kla" parameterizedStepValue:"id <com.lcwaikiki.android:id/searchIcon> li eleemente t\304\261kla" parameters:"com.lcwaikiki.android:id/searchIcon" > > 
+28-02-2022 09:39:37.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" saniye kadar bekle" > 
+28-02-2022 09:39:37.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<3> saniye kadar bekle" parameters:"3" > > 
+28-02-2022 09:39:37.277 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"id \"com.lcwaikiki.android:id/productDetailFavorite\" li eleemente t\304\261kla" > 
+28-02-2022 09:39:37.277 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"id {} li eleemente t\304\261kla" parameterizedStepValue:"id <com.lcwaikiki.android:id/productDetailFavorite> li eleemente t\304\261kla" parameters:"com.lcwaikiki.android:id/productDetailFavorite" > > 
+28-02-2022 09:39:40.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* id \"com.lcwaikiki.android:id/searchIcon\" li eleemente t\304\261kla" > 
+28-02-2022 09:39:40.307 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* id {} li eleemente t\304\261kla" parameterizedStepValue:"* id <com.lcwaikiki.android:id/searchIcon> li eleemente t\304\261kla" parameters:"com.lcwaikiki.android:id/searchIcon" > > 
+28-02-2022 09:39:40.308 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"com.lcwaikiki.android:id/toolbar_search\" \304\260d'li elemente <key> de\304\237erini yaz" > 
+28-02-2022 09:39:40.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} \304\260d'li elemente {} de\304\237erini yaz" parameterizedStepValue:"* <com.lcwaikiki.android:id/toolbar_search> \304\260d'li elemente <key> de\304\237erini yaz" parameters:"com.lcwaikiki.android:id/toolbar_search" parameters:"key" > > 
+28-02-2022 09:39:40.308 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"3\" saniye kadar bekle" > 
+28-02-2022 09:39:40.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} saniye kadar bekle" parameterizedStepValue:"* <3> saniye kadar bekle" parameters:"3" > > 
+28-02-2022 09:39:40.308 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Rasgele bir \303\274r\303\274n se\303\247" > 
+28-02-2022 09:39:40.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Rasgele bir \303\274r\303\274n se\303\247" parameterizedStepValue:"* Rasgele bir \303\274r\303\274n se\303\247" > > 
+28-02-2022 09:39:40.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* id \"com.lcwaikiki.android:id/productDetailFavorite\" li eleemente t\304\261kla" > 
+28-02-2022 09:39:40.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* id {} li eleemente t\304\261kla" parameterizedStepValue:"* id <com.lcwaikiki.android:id/productDetailFavorite> li eleemente t\304\261kla" parameters:"com.lcwaikiki.android:id/productDetailFavorite" > > 
+28-02-2022 10:13:53.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-02-2022 10:13:53.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-02-2022 10:13:56.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uy" > 
+28-02-2022 10:13:56.640 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uy" parameterizedStepValue:"Uy" > > 
+28-02-2022 10:13:57.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uyg" > 
+28-02-2022 10:13:57.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uyg" parameterizedStepValue:"Uyg" > > 
+28-02-2022 10:13:58.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygu" > 
+28-02-2022 10:13:58.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygu" parameterizedStepValue:"Uygu" > > 
+28-02-2022 10:13:59.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama" > 
+28-02-2022 10:13:59.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama" parameterizedStepValue:"Uygulama" > > 
+28-02-2022 10:14:00.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama " > 
+28-02-2022 10:14:00.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama" parameterizedStepValue:"Uygulama" > > 
+28-02-2022 10:14:06.330 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama kont" > 
+28-02-2022 10:14:06.330 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama kont" parameterizedStepValue:"Uygulama kont" > > 
+28-02-2022 10:14:07.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama kontrol" > 
+28-02-2022 10:14:07.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama kontrol" parameterizedStepValue:"Uygulama kontrol" > > 
+28-02-2022 10:28:55.053 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\AppiumOdev\specs
+28-02-2022 10:28:55.065 [Gauge] [DEBUG] Found 2 files
+28-02-2022 10:28:55.071 [Gauge] [INFO] Initializing concepts cache with 4 concepts
+28-02-2022 10:28:55.073 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 10:28:55.073 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 10:28:55.073 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 10:28:55.073 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 10:28:55.073 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 10:28:55.077 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-02-2022 10:28:55.077 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\example.spec
+28-02-2022 10:28:55.078 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-02-2022 10:28:55.078 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53074
+28-02-2022 21:07:34.494 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\AppiumOdev\specs
+28-02-2022 21:07:34.495 [Gauge] [DEBUG] Found 2 files
+28-02-2022 21:07:34.509 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
+28-02-2022 21:07:34.509 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\AppiumOdev\specs\Example.cpt
